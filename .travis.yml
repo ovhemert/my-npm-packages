@@ -1,0 +1,7 @@
+language: node_js
+sudo: true
+node_js:
+- '10'
+os:
+- linux
+install: npm install

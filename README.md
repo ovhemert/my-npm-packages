@@ -1,3 +1,1 @@
-# my-npm-packages
-
-Just for testing purpose
+Just for testing
