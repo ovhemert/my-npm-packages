@@ -4,16 +4,16 @@
   "description": "Just for testing purpose",
   "main": "index.js",
   "dependencies": {
-    "aedes-persistence-nedb": "^1.0.5",
-    "ci-status": "^1.2.1",
-    "dpc": "^1.0.1",
-    "gatsby-plugin-brotli": "^1.0.0",
-    "gatsby-plugin-sri": "^1.0.4",
-    "gatsby-plugin-zopfli": "^1.0.2",
-    "gatsby-source-pluralsight": "^1.0.0",
-    "npmcard": "^1.0.2",
-    "pino-papertrail": "^1.0.4",
-    "pino-stackdriver": "^1.1.0"
+    "aedes-persistence-nedb": "^2.0.1",
+    "ci-status": "^1.2.3",
+    "dpc": "^1.0.2",
+    "gatsby-plugin-brotli": "^1.0.1",
+    "gatsby-plugin-sri": "^1.0.6",
+    "gatsby-plugin-zopfli": "^1.0.4",
+    "gatsby-source-pluralsight": "^1.0.1",
+    "npmcard": "^1.0.3",
+    "pino-papertrail": "^1.1.1",
+    "pino-stackdriver": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {
