@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "aedes-persistence-nedb": "^2.0.1",
+    "batch2": "^1.0.0",
     "ci-status": "^1.2.3",
     "dpc": "^1.0.2",
     "gatsby-plugin-brotli": "^1.0.1",
