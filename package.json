@@ -8,6 +8,7 @@
     "batch2": "^1.0.0",
     "ci-status": "^1.2.3",
     "dpc": "^1.0.2",
+    "elasticsearch-batch-stream": "^1.1.0",
     "gatsby-plugin-brotli": "^1.0.1",
     "gatsby-plugin-sri": "^1.0.6",
     "gatsby-plugin-zopfli": "^1.0.4",
