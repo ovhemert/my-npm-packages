@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "aedes-persistence-nedb": "^2.0.1",
-    "batch2": "^1.0.0",
+    "batch2": "^1.0.1",
     "ci-status": "^1.2.3",
     "dpc": "^1.0.2",
     "elasticsearch-batch-stream": "^1.1.0",
@@ -15,7 +15,7 @@
     "gatsby-source-pluralsight": "^1.0.1",
     "npmcard": "^1.0.3",
     "pino-papertrail": "^1.1.1",
-    "pino-stackdriver": "^1.1.1"
+    "pino-stackdriver": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
