@@ -15,7 +15,7 @@
     "gatsby-source-pluralsight": "^1.0.1",
     "npmcard": "^1.0.3",
     "pino-couchdb": "^1.0.0",
-    "pino-papertrail": "^1.1.1",
+    "pino-papertrail": "^1.2.0",
     "pino-stackdriver": "^1.2.0"
   },
   "devDependencies": {},
