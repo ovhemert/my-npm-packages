@@ -14,6 +14,7 @@
     "gatsby-plugin-zopfli": "^1.0.4",
     "gatsby-source-pluralsight": "^1.0.1",
     "npmcard": "^1.0.3",
+    "pino-applicationinsights": "^1.0.0",
     "pino-azuretable": "^1.0.0",
     "pino-couchdb": "^1.0.0",
     "pino-datadog": "^1.0.1",
