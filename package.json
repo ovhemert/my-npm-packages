@@ -4,7 +4,7 @@
   "description": "Just for testing purpose",
   "main": "index.js",
   "dependencies": {
-    "aedes-persistence-nedb": "^2.0.2",
+    "aedes-persistence-nedb": "^2.0.3",
     "batch2": "^1.0.6",
     "ci-status": "^1.3.4",
     "dpc": "^1.0.5",
