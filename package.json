@@ -15,12 +15,12 @@
     "gatsby-plugin-zopfli": "^2.0.0",
     "gatsby-source-pluralsight": "^1.0.5",
     "npmcard": "^1.0.5",
-    "pino-applicationinsights": "^2.0.0",
+    "pino-applicationinsights": "^2.1.0",
     "pino-azuretable": "^2.0.0",
     "pino-couchdb": "^2.0.0",
-    "pino-datadog": "^2.0.0",
+    "pino-datadog": "^2.0.1",
     "pino-papertrail": "^2.1.0",
-    "pino-stackdriver": "^2.1.0"
+    "pino-stackdriver": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
